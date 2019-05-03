@@ -5,7 +5,7 @@
 
 	<footer class="bg-dark">
 		<div>
-			<p class="m-0 text-center text-white">Copyright &copy; Your Website
+			<p class="m-0 text-center text-white">Copyright &copy; Avengers
 				2019</p>
 		</div>
 		<!-- /.container -->
